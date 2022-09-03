@@ -15,14 +15,14 @@ const NavBar = () => {
     <div className="header">
       <div className="logo-nav">
         <div className="logo-container">
-          <Link to="/home">
+          <Link to="/">
             <img src={Logo} className="logo" alt="logo" />
           </Link>
         </div>
 
         <ul className={click ? "nav-options active" : "nav-options"}>
           <li className="option" onClick={closeMobileMenu}>
-            <Link to="/home">Home</Link>
+            <Link to="/">Home</Link>
           </li>
           <li className="option" onClick={closeMobileMenu}>
             <Link to="/about">About</Link>

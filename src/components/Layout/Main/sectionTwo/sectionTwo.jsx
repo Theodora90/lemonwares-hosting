@@ -1,11 +1,11 @@
 import React from "react";
 
 import classes from "./sectionTwo.module.css";
-import Container from "./../../Ui/Container/container";
-import ClockIcon from "../../../assets/images/clock.png";
-import SupportIcon from "../../../assets/images/support.png";
-import HostingIcon from "../../../assets/images/hosting.png";
-import CertificateIcon from "../../../assets/images/certificate.png";
+import Container from "../../../Ui/Container/container";
+import ClockIcon from "../../../../assets/images/clock.png";
+import SupportIcon from "../../../../assets/images/support.png";
+import HostingIcon from "../../../../assets/images/hosting.png";
+import CertificateIcon from "../../../../assets/images/certificate.png";
 
 const SectionTwo = () => {
   return (

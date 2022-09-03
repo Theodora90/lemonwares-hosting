@@ -1,8 +1,9 @@
 import React from "react";
 
 import Hero from "../../Layout/Hero/hero";
-import SectionOne from "../../Layout/Main/sectionOne";
-import SectionTwo from "../../Layout/Main/sectionTwo";
+import SectionOne from "../../Layout/Main/sectionOne/sectionOne";
+import SectionTwo from "../../Layout/Main/sectionTwo/sectionTwo";
+import SectionThree from "../../Layout/Main/sectionThree/sectionThree";
 
 const Home = (props) => {
   return (
@@ -10,6 +11,7 @@ const Home = (props) => {
       <Hero />
       <SectionOne />
       <SectionTwo />
+      <SectionThree />
     </div>
   );
 };

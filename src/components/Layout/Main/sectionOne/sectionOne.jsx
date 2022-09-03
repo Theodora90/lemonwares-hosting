@@ -1,13 +1,13 @@
 import React from "react";
 import classes from "./sectionOne.module.css";
 
-import Container from "../../Ui/Container/container";
-import PanelImage from "../../../assets/images/cPanel.png";
-import WordpressImage from "../../../assets/images/wordpress.png";
-import SecureImage from "../../../assets/images/secured.png";
-import LightImage from "../../../assets/images/lite-speed.png";
-import SoftImage from "../../../assets/images/soft.png";
-import CloudFlareImage from "../../../assets/images/cloudflare.png";
+import Container from "../../../Ui/Container/container";
+import PanelImage from "../../../../assets/images/cPanel.png";
+import WordpressImage from "../../../../assets/images/wordpress.png";
+import SecureImage from "../../../../assets/images/secured.png";
+import LightImage from "../../../../assets/images/lite-speed.png";
+import SoftImage from "../../../../assets/images/soft.png";
+import CloudFlareImage from "../../../../assets/images/cloudflare.png";
 
 const SectionOne = (props) => {
   return (
