@@ -18,7 +18,7 @@ const SectionOne = (props) => {
             <h2>True Cloud Web Hosting</h2>
             <p>
               True Cloud Web Hosting All of the hosting packages we offer are
-              deployed instantly on our SSD powered cloud. We don’t use
+              deployed instantly on our SSD powered cloud. We don't use
               dedicated servers that operate on single pieces of hardware. Our
               entire infrastructure is built to be reliable, secure, and
               scalable.
